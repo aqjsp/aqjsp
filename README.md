@@ -8,4 +8,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqjsp&show_icons=true&theme=radical)
 
-大家可以微信搜索关注：阿Q技术站
+可以微信搜索关注：阿Q技术站

@@ -41,9 +41,10 @@
 - **学习路线 / 技术栈选择 / 简历指导** 等长文干货  
 - 以及一些 GitHub 上没有的 **扩展内容和思考**  
 
-<div align="center">
+<div>
   <img src="https://github.com/aqjsp/aqjsp/assets/156802292/f5e6b895-a90b-4e57-8e79-3e3be22afa0b" width="600" height="220" alt="公众号二维码"/>
 </div>
+
 
 > 想系统学习、或者希望获取更多延伸文章，推荐关注公众号。
 

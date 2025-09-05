@@ -18,11 +18,11 @@
 
 ## 📖 推荐阅读
 
-- 🔗 [C++学习方向](https://mp.weixin.qq.com/s/5CTN9z7i2pcGMfIFyXcDew)  
-- 📌 [C++ 基础到进阶 100 问（含代码片段与易错点）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=2316333320672182275&scene=126&sessionid=1757052899818#wechat_redirect)  
+- 🔗 C++学习方向：[点击阅读](https://mp.weixin.qq.com/s/5CTN9z7i2pcGMfIFyXcDew)
+- 📌 C++ 基础到进阶（含代码片段与易错点）：[点击阅读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=2316333320672182275&scene=126&sessionid=1757052899818#wechat_redirect)  
 - 🌐 计算机网络速记手册（面试/笔试常考点清单）
-- 📝 [后端面经拆解：从问题到思路，再到可复用答案模板](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=3104351725295288321&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb5iJk2wo3nCg9dZsQuh8_g&nolastread=1#wechat_redirect)  
-- 🧮 [LeetCode 热题，以 ACM 的形式去玩转算法](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=3247853634856337409&scene=126&sessionid=1757052899818#wechat_redirect)
+- 📝 后端面经拆解，从问题到思路，再到可复用答案模板：[点击阅读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=3104351725295288321&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb5iJk2wo3nCg9dZsQuh8_g&nolastread=1#wechat_redirect)  
+- 🧮 LeetCode 热题，以 ACM 的形式去玩转算法：[点击阅读](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU5MTgxNzI5Nw==&action=getalbum&album_id=3247853634856337409&scene=126&sessionid=1757052899818#wechat_redirect)
 
 > 把“会”变成“会复用”：每篇内容尽量附 **思考框架** 与 **检查清单**。
 

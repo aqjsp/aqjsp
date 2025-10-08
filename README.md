@@ -41,7 +41,7 @@
 - **学习路线 / 技术栈选择 / 简历指导** 等长文干货
 - 以及一些 GitHub 上没有的 **扩展内容和思考**
 
-[阿Q技术站(点击扫码)](https://cdn.jsdelivr.net/gh/aqjsp/photos/%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E6%A0%87%E5%87%86%E8%89%B2%E7%89%88.png)
+[微信搜索：阿Q技术站](https://cdn.jsdelivr.net/gh/aqjsp/photos/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240117012215.png)
 
 > 想系统学习、或者希望获取更多延伸文章，推荐关注公众号。
 

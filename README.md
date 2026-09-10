@@ -2,7 +2,7 @@
 
 > 打磨基础、沉淀方法，把知识变成可以拿来就用的笔记与清单。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqjsp&show_icons=true&theme=radical)
+![阿Q 的 GitHub 统计](https://github-stats-alpha.vercel.app/api?username=aqjsp)
 
 ## 🌱 我在这里分享什么？
 

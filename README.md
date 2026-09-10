@@ -2,7 +2,10 @@
 
 > 打磨基础、沉淀方法，把知识变成可以拿来就用的笔记与清单。
 
-![阿Q 的 GitHub 统计](https://github-stats-alpha.vercel.app/api?username=aqjsp)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aqjsp&show_icons=true&theme=vue&locale=cn" alt="阿Q 的 GitHub 统计" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqjsp&layout=compact&theme=vue&locale=cn" alt="常用语言" />
+</p>
 
 ## 🌱 我在这里分享什么？
 

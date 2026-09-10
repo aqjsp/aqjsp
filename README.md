@@ -3,8 +3,8 @@
 > 打磨基础、沉淀方法，把知识变成可以拿来就用的笔记与清单。
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=aqjsp&show_icons=true&theme=vue&locale=cn" alt="阿Q 的 GitHub 统计" />
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aqjsp&layout=compact&theme=vue&locale=cn&card_width=400" alt="常用语言" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=aqjsp&show_icons=true&theme=vue&locale=cn&line_height=20" alt="阿Q 的 GitHub 统计" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aqjsp&layout=compact&theme=vue&locale=cn&card_width=467" alt="常用语言" />
 </p>
 
 ## 🌱 我在这里分享什么？

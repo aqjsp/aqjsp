@@ -1,6 +1,6 @@
 # Hi，我是阿Q 👋
 
-> 打磨基础、沉淀方法，把知识变成可以拿来就用的笔记与清单。
+> 🌐 **官方开源知识库 / 个人技术站**：[https://aqjszz.com](https://aqjszz.com) —— 打磨基础、沉淀方法，把知识变成可以拿来就用的笔记与清单。
 
 <p align="center">
   <img align="center" src="./profile/stats.svg" alt="阿Q 的 GitHub 统计" />
@@ -9,12 +9,14 @@
 
 ## 🌱 我在这里分享什么？
 
+- 🌐 **在线阅读**：[阿Q技术站 (aqjszz.com)](https://aqjszz.com) 完整收录所有体系化专栏与高清架构图
 - 💻 **计算机基础**：C/C++｜计算机网络｜操作系统｜数据库｜数据结构与算法
 - 🏗 **后端面经与职场**：各大/中/小厂经历、题目拆解、答题思路与复盘
 - 📰 **公众号精选**：更系统的专题文章与图解（同步更新）
 
 ## 🚀 快速导航
 
+- 🌐 **阿Q技术站官网** → [aqjszz.com](https://aqjszz.com)
 - 📚 **C++基础八股索引** → [Cpp](https://github.com/aqjsp/Cpp)
 - 🧩 **题单与刷题路线** → [Algorithm](https://github.com/aqjsp/Algorithm)
 - 🧭 **面经合集（按公司）** → [Interview-experience](https://github.com/aqjsp/Interview-experience)
